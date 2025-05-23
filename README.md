@@ -1,3 +1,6 @@
+# Name : RAGUL K R
+# Reg No : 212224240123
+
 # Fitting Poisson  distribution
 # Aim : 
 
